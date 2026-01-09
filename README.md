@@ -28,6 +28,8 @@ and identify key factors influencing customer retention through an interactive d
 ## 📂 Repository Contents
 - Power BI Dashboard file (.pbix)
 - Project documentation
+## 📸 Dashboard Preview
+![Customer Churn Dashboard](task2_dashboard.png)
 
 ## 👩‍💻 Created By
 Aysha  
